@@ -1,0 +1,11 @@
+@font-face {
+   font-family: e;
+   src: url('Bucanera.ttf');
+}
+*{
+   font-family: e;
+}
+button{
+   background-color: green;
+   color: rgb(0, 0, 0);
+}
